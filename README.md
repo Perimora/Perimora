@@ -7,10 +7,12 @@ MSc Computer Science @ TU Berlin
 
 ## Research
 
-**Using Transformer and GAN Models for Software and Security Testing**  
-Huy, Christoph; Hauswirth, Manfred  
-*Proceedings of the Annual Hawaii International Conference on System Sciences '59 (HICSS 2026)*  
-DOI: https://doi.org/10.24251/hicss.2026.831
+### Using Transformer and GAN Models for Software and Security Testing
+
+**Christoph Huy**, Manfred Hauswirth  
+*Hawaii International Conference on System Sciences (HICSS 2026)*  
+
+[![DOI](https://img.shields.io/badge/DOI-10.24251%2Fhicss.2026.831-blue)](https://doi.org/10.24251/hicss.2026.831)
 
 ## Current Focus
 - Multi-agent orchestration for security testing  
