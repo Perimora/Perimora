@@ -1,4 +1,4 @@
-# Christoph Huy
+# Research & Engineering Profile
 
 MSc Computer Science @ TU Berlin  
 
