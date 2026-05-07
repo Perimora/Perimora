@@ -15,8 +15,6 @@ DOI: https://doi.org/10.24251/hicss.2026.831
 ## Current Focus
 - Multi-agent orchestration for security testing  
 - LLM-driven fuzzing strategies  
-- System Design
-- Security
 
 ## Contact
 
